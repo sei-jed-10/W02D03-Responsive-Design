@@ -32,7 +32,7 @@
 
 ## What are the most common dimensions for a website design?
 
-Why don't you tell me! http://screensiz.es
+ Why don't you tell me! http://screensiz.es
 
 ![images/device_breakpoints](images/device_breakpoints.png)
 
