@@ -14,6 +14,16 @@
 
 ![images/7-media-queries](images/7-media-queries.png)
 
+
+## CSS3 Media Types
+Value	--- Description <br>
+all ---	Used for all media type devices <br>
+print ---	Used for printers <br>
+screen ---	Used for computer screens, tablets, smart-phones etc <br>
+speech ---	Used for screenreaders that "reads" the page out loud <br>
+
+
+
 ![images/8-media-queries](images/8-media-queries.png)
 
 ![images/9-media-queries](images/9-media-queries.png)
