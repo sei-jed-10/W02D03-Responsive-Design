@@ -15,7 +15,7 @@
 ![images/7-media-queries](images/7-media-queries.png)
 
 
-## CSS3 Media Types
+## CSS Media Types
 Value	--- Description <br>
 all ---	Used for all media type devices <br>
 print ---	Used for printers <br>
